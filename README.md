@@ -1,5 +1,10 @@
 # NomadMemCache
-In-memory cache helper class for .NET. NomadMemCache uses 
+In-memory cache helper class for .NET. NomadMemCache available on [Nuget](https://www.nuget.org/packages/NomadMemCache).
+
+### Installation
+To install NomadMemCache, run the following command in the Package Manager Console:
+
+`Install-Package NomadMemCache`
 
 ### Adding Object
 
